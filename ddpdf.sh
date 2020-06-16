@@ -1,7 +1,7 @@
 #!/bin/bash
 # Usage: remove all pdf file password
 
-pdfpass=17061966
+pdfpass=XXXXXXXX
 
 shopt -s nullglob
 for f in *.pdf
